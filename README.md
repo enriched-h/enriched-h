@@ -1,13 +1,14 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+![MasterHead](https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif)
 <h1 align="center">Hi 👋, I'm Hope</h1>
 <h3 align="center">A passionate software develper</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
 
-- 🔭 I’m currently working on **CHicHve**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
+- 🔭 I’m currently working on **ChicHive**
 
 - 🌱 I’m currently learning **JavaScript && MERN stack**
 
-https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW- 📫 How to reach me **hrkodisang@gmail.com**
+- 📫 How to reach me **hrkodisang@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
