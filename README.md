@@ -1,16 +1,16 @@
 ![MasterHead](https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif)
-<h1 align="center">Hi 👋, I'm Hope</h1>
-<h3 align="center">A passionate software develper</h3>
+<h1 align="center">Greetings, universe👋, I'm Hope</h1>
+<h3 align="center">A passionate software developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on **ChicHive**
+- 🔭 Busy with **ChicHive**
 
-- 🌱 I’m currently learning **JavaScript && MERN stack**
+- 🌱 Currently learning  **JavaScript && MERN stack**
 
-- 📫 How to reach me **hrkodisang@gmail.com**
+- 📫 Don't be shy, get in touch  **hrkodisang@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hope-kodisang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hope-kodisang/" height="30" width="40" /></a>
 </p>
