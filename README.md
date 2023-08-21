@@ -1,6 +1,6 @@
 ![MasterHead](https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif)
 <h1 align="center">Greetings, universe👋, I'm Hope</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">🎯 Hitting the Bullseye of Perfection in Every Line</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
