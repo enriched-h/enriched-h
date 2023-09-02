@@ -1,6 +1,6 @@
 ![MasterHead](https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif)
 <h1 align="center">Greetings, universe👋, I'm Hope</h1>
-<h3 align="center">🎯 Front-end developer on a journey to fullstack</h3>
+<h3 align="center">Front-end developer on a journey to fullstack🎯</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
