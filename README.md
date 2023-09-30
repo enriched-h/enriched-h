@@ -6,7 +6,7 @@
 
 - 🔭 Busy with **ChicHive**
 
-- 🌱 Currently learning  **React.js**
+- 🌱 Currently learning  **Php and Laravel**
 
 - 📫 Don't be shy, get in touch  **hrkodisang@gmail.com**
 
