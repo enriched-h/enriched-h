@@ -1,6 +1,6 @@
 ![MasterHead](https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif)
 <h1 align="center">Greetings, Earthlings👋</h1>
-<h3 align="center">Fullstack developer </h3>
+<h3 align="center">Fullstack developer & AWS DevOps Engineer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
